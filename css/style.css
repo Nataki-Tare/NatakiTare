@@ -257,7 +257,7 @@ header .sub-intro {
 #about .about-text li:before {
 	content: '\f00c';
 	font-family: 'FontAwesome';
-	color: #AB1F3A;
+	color: #0000;
 	font-size: 11px;
 	font-weight: 300;
 	padding-right: 8px;
@@ -291,7 +291,7 @@ header .sub-intro {
 #LetsPy h2::after {
 	position: absolute;
 	content: "";
-	background: linear-gradient(to right, #AB1F3A 0%, #AB1F3A 100%);
+	background: linear-gradient(to right, #0000 0%, #0000 100%);
 	height: 4px;
 	width: 60px;
 	bottom: 0;
@@ -306,7 +306,7 @@ header .sub-intro {
 #LetsPy .LetsPy-text li:before {
 	content: '\f00c';
 	font-family: 'FontAwesome';
-	color: #AB1F3A;
+	color: #0000;
 	font-size: 11px;
 	font-weight: 300;
 	padding-right: 8px;
